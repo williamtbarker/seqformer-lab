@@ -1,5 +1,8 @@
 # SeqFormer Lab
 
+[![License](https://img.shields.io/github/license/williamtbarker/seqformer-lab)](https://github.com/williamtbarker/seqformer-lab/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/williamtbarker/seqformer-lab?display_name=tag&sort=semver)](https://github.com/williamtbarker/seqformer-lab/releases)
+
 [![CI](https://github.com/williamtbarker/seqformer-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/williamtbarker/seqformer-lab/actions/workflows/ci.yml)
 [![Python 3.10–3.12](https://img.shields.io/badge/python-3.10--3.12-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2%2B-ee4c2c.svg)](https://pytorch.org/)
