@@ -140,14 +140,6 @@ Verification runs formatting, linting, strict type checking, unit and integratio
 builds, a fresh CPU demonstration, and checkpoint re-evaluation. GitHub Actions repeats the suite
 on Ubuntu and macOS.
 
-## Project provenance
-
-The design was reconstructed from several years of private experiments involving temporal masked
-modeling, multi-input transformer fusion, conditional latent sequence models, embedding caches,
-and explainability tooling. The public implementation was rewritten around synthetic data and
-small deterministic tests. Private datasets, organization-specific paths, internal infrastructure,
-trained weights, and unsupported performance claims are not included.
-
 ## Limitations
 
 - The built-in tokenizer is character-level, not a pretrained protein-language-model tokenizer.
