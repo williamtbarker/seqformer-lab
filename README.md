@@ -36,6 +36,8 @@ synthetic example has scientific or predictive validity.
 ## Install
 
 ```bash
+git clone https://github.com/williamtbarker/seqformer-lab.git
+cd seqformer-lab
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
